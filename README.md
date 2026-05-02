@@ -25,7 +25,7 @@ I am a Software Engineering undergraduate focused on building reliable, scalable
 ### **Languages**
 
 <span>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
 </span>
 
 ### **Frameworks & Libraries**
@@ -80,5 +80,3 @@ I am a Software Engineering undergraduate focused on building reliable, scalable
 
 ---
 
-## ⚡ Fun Fact
-I enjoy solving real-world problems through code and continuously improving my development skills.
