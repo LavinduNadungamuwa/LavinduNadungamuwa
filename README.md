@@ -1,5 +1,9 @@
 # Lavindu Nadungamuwa
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lavindu+Nadungamuwa;Full+Stack+Developer;Welcome+to+My+GitHub+Profile!">
+</div>
+
 ## Software Engineering Undergraduate | Backend & Full-Stack Developer
 
 I am a Software Engineering undergraduate focused on building reliable, scalable, and maintainable applications. I have hands-on experience developing full-stack systems, RESTful APIs, and working with modern development tools.
@@ -16,13 +20,31 @@ I am a Software Engineering undergraduate focused on building reliable, scalable
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ **Tech Stack**
 
-**Languages:** Java, JavaScript, Python  
-**Frontend:** React, HTML, CSS  
-**Backend:** Spring Boot, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Docker, Postman  
+### **Languages**
+
+<span>
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+</span>
+
+### **Frameworks & Libraries**
+
+<span>
+<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative" />
+</span>
+
+### **Databases**
+
+<span>
+<img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</span>
+
+### **Tools & Platforms**
+
+<span>
+<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,firebase,aws" />
+</span>
 
 ---
 
