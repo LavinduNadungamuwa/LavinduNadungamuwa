@@ -75,8 +75,8 @@ I am a Software Engineering undergraduate focused on building reliable, scalable
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: lavindunadungamuwa@gmail.com
+- 💼 LinkedIn: https://https://www.linkedin.com/in/lavindu-nadungamuwa-007855263/ 
 
 ---
 
