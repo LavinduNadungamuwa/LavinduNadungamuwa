@@ -1,4 +1,4 @@
-# Lavindu N
+# Lavindu Nadungamuwa
 
 ## Software Engineering Undergraduate | Backend & Full-Stack Developer
 
@@ -42,8 +42,12 @@ I am a Software Engineering undergraduate focused on building reliable, scalable
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oshada-Nethmina&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada-Nethmina&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
